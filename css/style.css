@@ -1,3 +1,12 @@
 .card-img{
     height: 200px;
 }
+
+.nav-logo{
+    height: 30px;
+}
+
+.hero-image{
+    height: 60vh;
+    width: 100%;
+}
